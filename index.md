@@ -1,37 +1,27 @@
-# Trevor Salom
+# Trevor Salom's User Page
+## CSE 110
 
-You can use the [editor on GitHub](https://github.com/tsalomucsd/cse110-lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my user page for [UCSD's CSE 110 Course](https://www.ucsd.edu/catalog/courses/CSE.html#cse110).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you're interested, this is me: 
+![](https://avatars1.githubusercontent.com/u/5800114?s=460&u=868da050923bf196c03e5914fe411ed8c001e0a8&v=4)
 
-### Markdown
+I'm not really sure what the 'core' markdown elements are, so here are a few from the github flavored markdown formatting documentation:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### A list of postsecondary schools I have attended
 
-```markdown
-Syntax highlighted code block
+ - University of Waterloo
+ - Foothill College
+ - UC San Diego
 
-# Header 1
-## Header 2
-### Header 3
+### A code block with the commands I will use to commit this page
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+git add .
+git commit
+git push
+```bash
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Although, I'll be pushing this using vscode, so I won't actually be using those commands :+1:.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tsalomucsd/cse110-lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
