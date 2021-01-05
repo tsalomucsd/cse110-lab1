@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Trevor Salom
 
 You can use the [editor on GitHub](https://github.com/tsalomucsd/cse110-lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
