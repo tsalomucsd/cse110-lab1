@@ -20,7 +20,7 @@ I'm not really sure what the 'core' markdown elements are, so here are a few fro
 git add .
 git commit
 git push
-```bash
+```
 
 Although, I'll be pushing this using vscode, so I won't actually be using those commands :+1:.
 
